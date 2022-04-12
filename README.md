@@ -1,5 +1,5 @@
 # xlo
-Replica inspired on OXL. 
+Replica inspired on OLX. 
 
 <p align="center">
   <img src="https://github.com/JoaoCampello/xlo/blob/main/Icon.png?raw=true" alt="logo">
